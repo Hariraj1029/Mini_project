@@ -1,0 +1,52 @@
+#head{
+  font-weight: bold;
+  font-size: 50px;
+  border-style: solid;
+  border-top: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align: center;
+  border-width: thick;
+  padding-left: 10px;
+
+}
+.natural{
+  background-color: skyblue;
+  font-family: inherit;
+  text-align: center;
+
+
+}
+.natural h2{
+  font-family: cursive;
+  text-align: center;
+
+}
+.technical{
+  background-color: yellow;
+  font-family: inherit;
+  text-align: center;
+
+}
+
+.technical h2{
+  font-family: cursive;
+  text-align: center;
+
+}
+
+.Social{
+  background-color: orange;
+  font-family: inherit;
+  text-align: center;
+
+}
+
+.Social h2{
+  font-family: cursive;
+  text-align: center;
+
+}
+#idea{
+  text-align: center;
+}
